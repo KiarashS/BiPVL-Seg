@@ -1,0 +1,6 @@
+We first named our model "univila", then we later we changed the model name to "BiPVL-Seg". So, throughout the code "univila" -> "BiPVL-Seg".
+
+Put the MONAI files in the following directory:
+
+1) \MONAI_files\NETS files to: "/home/username/miniconda3/envs/mul2/lib/python3.9/site-packages/monai/networks/nets/"
+2) \MONAI_files\Networks files to: "/home/username/miniconda3/envs/mul2/lib/python3.9/site-packages/monai/networks/"
