@@ -29,7 +29,7 @@ python train.py
 
 ```
 
-### **Citation*
+### **Citation**
 
 If you find this work useful, please cite:
 
