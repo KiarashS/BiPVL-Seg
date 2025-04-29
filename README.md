@@ -1,13 +1,11 @@
 # **BiPVL-Seg**
 **Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**  
-🔗 **[ArXiv Paper](#)** (Coming Soon)
+🔗 **[ArXiv Paper](https://arxiv.org/abs/2503.23534)** (Coming Soon)
 
+## 📌Abstract:
+Medical image segmentation traditionally depends on visual inputs alone, neglecting the textual insights that clinicians routinely leverage for diagnosis. Vision-language models seek to bridge this gap; however, most existing methods treat visual and textual features in isolation, leading to suboptimal cross-modal alignment. Simple fusion techniques fail due to the inherent differences between spatial visual features and sequential text embeddings. Additionally, medical terminology deviates from general language, limiting the effectiveness of off-the-shelf text encoders and further hindering vision-language alignment. We propose \textbf{BiPVL-Seg}, an end-to-end framework that integrates vision-language fusion and embedding alignment through architectural and training innovations, where both components mutually reinforce each other to enhance medical image segmentation. BiPVL-Seg introduces bidirectional progressive fusion in the architecture, enabling stage-wise information exchange between vision and text encoders. It further incorporates global-local contrastive alignment, a training objective that enhances encoder comprehension by aligning text and vision embeddings at both the class level (fully anatomical or pathological categories) and the concept level (fine-grained visually observable attributes such as shape, location, and appearance). Extensive experiments on diverse medical imaging benchmarks across CT and MR modalities demonstrate that BiPVL-Seg outperforms state-of-the-art methods in multi-class segmentation of both anatomical structures and pathological regions. The source code is available in the supplementary materials.
 ---
-
-## **📌 Overview**
-BiPVL-Seg is a vision-language model designed for **medical image segmentation**, integrating:
-- **Bidirectional Progressive Fusion (BiFusion)** for continuous cross-modal feature exchange.
-- **Global-Local Contrastive Alignment**, improving vision-language embedding coherence.
+<img src="bipvl_seg.png" alt="bipvl_seg">
 
 ---
 
