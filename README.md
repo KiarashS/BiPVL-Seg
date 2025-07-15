@@ -29,7 +29,7 @@ python train.py
 
 ```
 
-If you have any questions, fill out this [form](https://forms.gle/n9WAN5QqP5DesH3j7)  or just email me at hm4013@wayne.edu. I will get back to you as soon as possible.
+If you have any questions, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeZrbw9tLkzHKXdMPV1XZ2MUFw7w2XWD8nYy2y8TbPz3cSZpg/viewform?usp=sharing&ouid=108686355141976047341)  or just email me at hm4013@wayne.edu. I will get back to you as soon as possible.
 
 ### **Citation**
 
