@@ -10,7 +10,7 @@ Medical image segmentation traditionally depends on visual inputs alone, neglect
 <img src="bipvl_seg.png" alt="bipvl_seg">
 
 ---
-
+(We initially named the project "univila", but later changed it to BiPVL-Seg. So, wherever you see univila in the source code, it refers to our proposed model.)
 ## **🛠️ Installation**
 ### **1. Clone the repository**
 ```bash
